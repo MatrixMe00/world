@@ -4,7 +4,7 @@ namespace Nnjeim\World\Models;
 
 use Nnjeim\World\Models\Traits\StateRelations;
 
-use Illuminate\Database\Eloquent\Model;
+use MongoDB\Laravel\Eloquent\Model;
 use Nnjeim\World\Models\Traits\WorldConnection;
 
 /**

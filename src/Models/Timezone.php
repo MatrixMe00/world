@@ -5,7 +5,7 @@ namespace Nnjeim\World\Models;
 use Nnjeim\World\Models\Traits\WorldConnection;
 use Nnjeim\World\Models\Traits\TimezoneRelations;
 
-use Illuminate\Database\Eloquent\Model;
+use MongoDB\Laravel\Eloquent\Model;
 
 /**
  * @property int $id
