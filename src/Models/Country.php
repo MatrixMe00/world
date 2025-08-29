@@ -5,7 +5,7 @@ namespace Nnjeim\World\Models;
 use Nnjeim\World\Models\Traits\WorldConnection;
 use Nnjeim\World\Models\Traits\CountryRelations;
 
-use Illuminate\Database\Eloquent\Model;
+use MongoDB\Laravel\Eloquent\Model;
 
 /**
  * Class Country
