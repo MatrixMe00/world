@@ -2,7 +2,7 @@
 
 namespace Nnjeim\World\Models;
 
-use Illuminate\Database\Eloquent\Model;
+use MongoDB\Laravel\Eloquent\Model;
 use Nnjeim\World\Models\Traits\WorldConnection;
 
 /**
